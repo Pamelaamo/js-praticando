@@ -6,7 +6,24 @@
     <title>Praticando JavaScript</title>
 </head>
 <body>
-    
+    <section>
+        <header>
+
+        </header>
+    </section>
+
+    <section>
+        <main>
+
+        </main>
+    </section>
+
+    <section>
+        <footer>
+            
+        </footer>
+    </section>
+
     
 </body>
 </html>
